@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Ashfaq Hussain Ahmed** working as **Tech Lead @ Pine Solutions Limited**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Laravel, React JS, NodeJS, MongoDB, Python, Django, Flask, Mevn Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress plugin/theme development.** Strong engineering professional with a Bachelor of Computer Science focused in Backend Development / Web Development from Eastern University – Bangladesh.
+I am **Ashfaq Hussain Ahmed** working as **Technical Lead @ Pine Solutions Limited**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Laravel, React JS, NodeJS, MongoDB,MySql,PostgreSql, Python, Django, Flask, Mevn Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress plugin/theme development.** Strong engineering professional with a Bachelor of Computer Science focused in Backend Development / Web Development from Eastern University – Bangladesh.
 
 - 🔭 I’m currently working as **Technical Lead @ Pine Solutions Limited**
 - 🌱 I’m currently learning ** Docker / DevOps**...
