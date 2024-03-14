@@ -4,9 +4,9 @@
 
 🌟 Passionate about crafting robust and scalable solutions to drive seamless user experiences. 
 
-💡 With 5 years of experience in backend development, I deeply understand building efficient and reliable server-side applications.
+💡 With 4 years of experience in backend development, I deeply understand building efficient and reliable server-side applications.
 
-💻 Proficient in multiple programming languages, including Java, PHP/Laravel, and Python/Django. I love exploring new technologies and frameworks to stay up-to-date with industry trends.
+💻 Proficient in multiple programming languages, including Java/Kotlin, PHP/Laravel, and Python/Django. I love exploring new technologies and frameworks to stay up-to-date with industry trends.
 
 🔧 Experienced in designing and implementing RESTful APIs, database management, and performance optimization. I believe in writing clean, maintainable code and following best practices.
 
@@ -21,7 +21,7 @@
 Some more details about me:
 
 - 🔭 I’m currently working as a **Backend Developer**
-- 🌱 I’m currently learning ** Docker / DevOps**...
+- 🌱 I’m currently learning ** Docker / DevOps / AI/ML/LLM **...
 - 👯 I’m looking to collaborate on Open Source / Commercial Projects...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **Java/Kotlin, PHP/Laravel) , Spring Boot**...
