@@ -14,9 +14,11 @@
 
 🌐 Some of the technologies I frequently work with:
 - Java, Kotlin
+- PHP/Laravel
 - Docker, Kubernetes
 - GitLab CI/CD
 - jUnit, Cypress.io
+- PHPUnit
 
 Some more details about me:
 
