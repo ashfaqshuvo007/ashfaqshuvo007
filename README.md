@@ -36,8 +36,15 @@ Some more details about me:
 
 ✨ "The best code is the one not written." - Unknown
 
-
-![Ashfaq's github stats](https://github-readme-stats.vercel.app/api?username=ashfaqshuvo007&show_icons=true&hide_border=true)
+### 📈 GitHub stats & Activity Graph :
+<table cellpadding="0">
+  <tr style="padding: 10">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=ashfaqshuvo007&show_icons=true&theme=dracula&include_all_commits=true"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqshuvo007&theme=dracula&layout=compact"/></td>
+  </tr>
+</table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashfaqshuvo007)](https://github.com/ashfaqshuvo007/github-profile-trophy)
 
