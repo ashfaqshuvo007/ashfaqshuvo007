@@ -41,8 +41,8 @@ Some more details about me:
   <tr style="padding: 10">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=ashfaqshuvo007&show_icons=true&theme=dracula&include_all_commits=true"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqshuvo007&theme=dracula&layout=compact"/></td>
+<!--     <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqshuvo007&theme=dracula&layout=compact"/></td> -->
   </tr>
 </table>
 
