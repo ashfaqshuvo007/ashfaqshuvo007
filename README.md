@@ -70,6 +70,4 @@ My current focus is transitioning into AI/ML engineering, combining my strong ba
 
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashfaqshuvo007)](https://github.com/ashfaqshuvo007/github-profile-trophy)
-
 
